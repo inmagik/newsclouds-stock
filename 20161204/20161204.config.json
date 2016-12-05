@@ -1,0 +1,14 @@
+{
+    "--color-func": "hue-based",
+    "--relative-scaling": "0.3",
+    "--max-font-size": null,
+    "--encoding": "utf-8",
+    "--color-func-params": "{\"base_hue\":103, \"vibrance\":20}",
+    "--canvas": "1000",
+    "--max-words": "400",
+    "--google-font": "Ranchers",
+    "--background-color": "#222",
+    "--version": false,
+    "--min-len": "3",
+    "--size": "800"
+}

@@ -1,0 +1,14 @@
+{
+    "--max-words": "400",
+    "--min-len": "3",
+    "--color-func-params": "{\"base_hue\":333, \"vibrance\":33}",
+    "--encoding": "utf-8",
+    "--background-color": "#222",
+    "--size": "800",
+    "--color-func": "hue-based",
+    "--version": false,
+    "--relative-scaling": "0.5",
+    "--google-font": "Playball",
+    "--max-font-size": null,
+    "--canvas": "1000"
+}

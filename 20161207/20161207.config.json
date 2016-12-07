@@ -1,0 +1,14 @@
+{
+    "--size": "800",
+    "--background-color": "#222",
+    "--max-font-size": null,
+    "--encoding": "utf-8",
+    "--max-words": "400",
+    "--color-func-params": "{\"base_hue\":180, \"vibrance\":20}",
+    "--version": false,
+    "--canvas": "1000",
+    "--relative-scaling": "0.5",
+    "--color-func": "hue-based",
+    "--google-font": "Shrikhand",
+    "--min-len": "3"
+}

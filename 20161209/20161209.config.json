@@ -1,0 +1,14 @@
+{
+    "--color-func": "hue-based",
+    "--google-font": "Finger+Paint",
+    "--min-len": "3",
+    "--color-func-params": "{\"base_hue\":21, \"vibrance\":40}",
+    "--version": false,
+    "--background-color": "#222",
+    "--canvas": "1000",
+    "--size": "800",
+    "--max-font-size": null,
+    "--encoding": "utf-8",
+    "--max-words": "400",
+    "--relative-scaling": "0.5"
+}

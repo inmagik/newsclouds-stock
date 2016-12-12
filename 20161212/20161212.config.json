@@ -1,0 +1,14 @@
+{
+    "--color-func-params": "{\"base_hue\":78, \"vibrance\":20}",
+    "--min-len": "3",
+    "--version": false,
+    "--encoding": "utf-8",
+    "--google-font": "Arima+Madurai",
+    "--canvas": "1000",
+    "--background-color": "#222",
+    "--color-func": "hue-based",
+    "--max-words": "400",
+    "--size": "800",
+    "--relative-scaling": "0.5",
+    "--max-font-size": null
+}

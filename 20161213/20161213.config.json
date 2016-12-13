@@ -1,0 +1,14 @@
+{
+    "--encoding": "utf-8",
+    "--version": false,
+    "--canvas": "1000",
+    "--background-color": "#222",
+    "--color-func": "hue-based",
+    "--relative-scaling": "0.5",
+    "--color-func-params": "{\"base_hue\":188, \"vibrance\":28}",
+    "--google-font": "BioRhyme",
+    "--min-len": "3",
+    "--max-font-size": null,
+    "--size": "800",
+    "--max-words": "400"
+}
